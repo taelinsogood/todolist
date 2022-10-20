@@ -1,0 +1,59 @@
+.div{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+    background: rgb(248, 88, 88);
+}
+.con{
+    background: rgb(204, 0, 255);
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.box{
+    background: rgb(69, 69, 249);
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+    position: fixed;
+    left: 20px;
+    top: 20px;
+}
+/* .item{
+    width: 80px;
+    height: 80px;
+}
+.item1{
+    background: #ef9a9a;
+    
+}
+.item2{
+    background: #f48fb1;
+    position: fixed;
+    left: 20px;
+    top: 20px;
+}
+.item3{
+    background: #ce93d8;
+}
+.item4{
+    background: #b39ddb;
+}
+.item5{
+    background: #98caf9;
+}
+.item6{
+    background: #a5d6a7;
+}
+.item7{
+    background: #e6ee9c;
+}
+.item8{
+    background: #fff59d;
+}
+.item9{
+    background: #ffcc80;
+}
+.item10{
+    background: #ffab91;
+} */

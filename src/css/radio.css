@@ -1,0 +1,31 @@
+.RootWrap{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    max-width: 500px;
+    
+    left: 50%;
+    transform: translate(-50%, 0);
+    background-color: lightgrey;
+    padding: 20px;
+}
+.QuestionWrap{
+    margin-bottom: 16px;
+}
+.questionTitle{
+    margin-bottom: 8px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.RadioWrap{
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+.radioinput{
+    display: none;
+}
+.questionText{
+    margin-left: 8px;
+}

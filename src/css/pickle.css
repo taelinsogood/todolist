@@ -1,0 +1,49 @@
+.picklebox{
+    margin: 1rem;
+}
+.pickletitle{
+    font-size: 1.875rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+.pickleinput{
+    padding: 10px;
+    width: 100%;
+    outline: none;
+	border: 1px solid black;
+    height: 57px;
+    font-size: 14px;
+	font-weight: 400;
+    margin: 10px;
+    border-radius: 8px;
+}
+.plcklebutton{
+    background-color: rgb(14, 14, 39);
+    color: white;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.plcklebutton2{
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.ul{
+    margin-left: 400px;
+    margin-top: 13px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+    width: 30%;
+}
